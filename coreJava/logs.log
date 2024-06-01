@@ -1,0 +1,180 @@
+2024-05-29 19:20:01 INFO     DecisionMaking:20 - Number is odd
+  2024-05-29 19:37:00 INFO     StringsTraining:12 - H
+  2024-05-29 19:37:00 INFO     StringsTraining:12 - e
+  2024-05-29 19:37:00 INFO     StringsTraining:12 - l
+  2024-05-29 19:37:00 INFO     StringsTraining:12 - l
+  2024-05-29 19:37:00 INFO     StringsTraining:12 - o
+  2024-05-29 19:37:00 INFO     StringsTraining:12 -  
+  2024-05-29 19:37:00 INFO     StringsTraining:12 - w
+  2024-05-29 19:37:00 INFO     StringsTraining:12 - o
+  2024-05-29 19:37:00 INFO     StringsTraining:12 - r
+  2024-05-29 19:37:00 INFO     StringsTraining:12 - l
+  2024-05-29 19:37:00 INFO     StringsTraining:12 - d
+  2024-05-29 19:44:03 INFO     StringsTraining:12 - H
+  2024-05-29 19:44:03 INFO     StringsTraining:12 - e
+  2024-05-29 19:44:03 INFO     StringsTraining:12 - l
+  2024-05-29 19:44:03 INFO     StringsTraining:12 - l
+  2024-05-29 19:44:03 INFO     StringsTraining:12 - o
+  2024-05-29 19:44:03 INFO     StringsTraining:12 -  
+  2024-05-29 19:44:03 INFO     StringsTraining:12 - w
+  2024-05-29 19:44:03 INFO     StringsTraining:12 - o
+  2024-05-29 19:44:03 INFO     StringsTraining:12 - r
+  2024-05-29 19:44:03 INFO     StringsTraining:12 - l
+  2024-05-29 19:44:03 INFO     StringsTraining:12 - d
+  2024-05-29 19:44:03 INFO     StringsTraining:18 - helloworld
+  2024-05-29 20:10:50 INFO     Animal:6 - Dog barks
+  2024-05-29 20:10:56 INFO     Animal:7 - Animal makes noise
+  2024-05-29 20:12:43 INFO     Animal:6 - Dog barks
+  2024-05-29 20:12:49 INFO     Animal:7 - Animal makes noise
+  2024-05-29 20:14:12 INFO     Animal:7 - Animal makes noise
+  2024-05-29 20:14:22 INFO     Animal:6 - Dog barks
+  2024-05-29 20:29:50 INFO     Main:11 - 0
+  2024-05-29 20:29:50 INFO     Main:11 - 1
+  2024-05-29 20:29:50 INFO     Main:11 - 2
+  2024-05-29 20:29:50 INFO     Main:11 - 3
+  2024-05-29 20:29:50 INFO     Main:11 - 4
+  2024-05-29 20:29:50 INFO     Main:11 - 5
+  2024-05-29 20:29:50 INFO     Main:11 - 6
+  2024-05-29 20:29:50 INFO     Main:11 - 7
+  2024-05-29 20:29:50 INFO     Main:11 - 8
+  2024-05-29 20:29:50 INFO     Main:11 - 9
+  2024-05-29 20:29:56 INFO     Animal:11 - Animalmakes noise
+  2024-05-29 20:30:17 INFO     Animal:10 - doggy barks
+  2024-05-30 19:30:35 INFO     Animal:12 - doggy barks
+  2024-05-30 19:30:35 INFO     Animal:16 - Dog woofs
+  2024-05-30 19:30:35 INFO     Animal:19 - Dog woof
+  2024-05-30 19:30:46 INFO     Animal:12 - doggy barks
+  2024-05-30 19:30:46 INFO     Animal:16 - Dog woofs
+  2024-05-30 19:30:46 INFO     Animal:19 - Dog sit
+  2024-05-31 10:00:00 INFO     Main:11 - 0
+  2024-05-31 10:00:00 INFO     Main:11 - 1
+  2024-05-31 10:00:00 INFO     Main:11 - 2
+  2024-05-31 10:00:00 INFO     Main:11 - 3
+  2024-05-31 10:00:00 INFO     Main:11 - 4
+  2024-05-31 10:00:00 INFO     Main:11 - 5
+  2024-05-31 10:00:00 INFO     Main:11 - 6
+  2024-05-31 10:00:00 INFO     Main:11 - 7
+  2024-05-31 10:00:00 INFO     Main:11 - 8
+  2024-05-31 10:00:00 INFO     Main:11 - 9
+  2024-05-31 10:03:35 INFO     Robot:7 - These are robot legs
+  2024-05-31 10:03:35 INFO     Robot:12 - This is robot walking algo
+  2024-05-31 10:03:35 INFO     Robot:18 - Robot is walking using legs and walking algo
+  2024-05-31 19:38:36 ERROR    DivideByZeroException:28 - Division by zero is not possible.
+  2024-05-31 19:38:36 ERROR    DivideByZeroException:19 - An error occurred.
+  2024-05-31 19:54:46 INFO     Main:25 - Alice
+  2024-05-31 19:54:46 INFO     Main:25 - Bob
+  2024-05-31 19:54:46 INFO     Main:25 - Charles
+  2024-05-31 19:54:46 INFO     Main:25 - David
+  2024-05-31 19:58:36 INFO     Main:25 - Alice
+  2024-05-31 19:58:36 INFO     Main:25 - Bob
+  2024-05-31 19:58:36 INFO     Main:25 - Charles
+  2024-05-31 19:58:36 INFO     Main:25 - David
+  2024-05-31 19:58:36 INFO     Main:32 - 4
+  2024-05-31 19:58:36 INFO     Main:36 - 4
+  2024-05-31 20:02:00 INFO     Main:25 - Alice
+  2024-05-31 20:02:00 INFO     Main:25 - Bob
+  2024-05-31 20:02:00 INFO     Main:25 - Charles
+  2024-05-31 20:02:00 INFO     Main:25 - David
+  2024-05-31 20:02:00 INFO     Main:32 - 4
+  2024-05-31 20:02:00 INFO     Main:36 - 4
+  2024-05-31 20:02:00 INFO     Main:45 - Student Bob has score 94
+  2024-05-31 20:02:00 INFO     Main:45 - Student Charles has score 69
+  2024-05-31 20:02:00 INFO     Main:45 - Student Alice has score 34
+  2024-05-31 20:02:00 INFO     Main:45 - Student David has score 76
+  2024-05-31 20:02:15 INFO     Main:25 - Alice
+  2024-05-31 20:02:15 INFO     Main:25 - Bob
+  2024-05-31 20:02:15 INFO     Main:25 - Charles
+  2024-05-31 20:02:15 INFO     Main:25 - David
+  2024-05-31 20:02:15 INFO     Main:32 - 4
+  2024-05-31 20:02:15 INFO     Main:36 - 4
+  2024-05-31 20:02:15 INFO     Main:45 - Student Bob has scored 94
+  2024-05-31 20:02:15 INFO     Main:45 - Student Charles has scored 69
+  2024-05-31 20:02:15 INFO     Main:45 - Student Alice has scored 34
+  2024-05-31 20:02:15 INFO     Main:45 - Student David has scored 76
+  2024-05-31 20:14:22 INFO     Main:25 - David
+  2024-05-31 20:14:22 INFO     Main:25 - Alice
+  2024-05-31 20:14:22 INFO     Main:25 - Charles
+  2024-05-31 20:14:22 INFO     Main:25 - Bob
+  2024-05-31 20:14:22 INFO     Main:32 - 4
+  2024-05-31 20:14:22 INFO     Main:36 - 4
+  2024-05-31 20:14:22 INFO     Main:45 - Student Alice has scored 34
+  2024-05-31 20:14:22 INFO     Main:45 - Student Charles has scored 69
+  2024-05-31 20:14:22 INFO     Main:45 - Student David has scored 76
+  2024-05-31 20:14:22 INFO     Main:45 - Student Bob has scored 94
+  2024-05-31 20:14:22 INFO     Main:58 - Alice
+  2024-05-31 20:14:22 INFO     Main:58 - Bob
+  2024-05-31 20:14:22 INFO     Main:58 - Charles
+  2024-05-31 20:14:22 INFO     Main:58 - David
+  2024-06-01 08:41:33 INFO     Main:11 - 0
+  2024-06-01 08:41:33 INFO     Main:11 - 1
+  2024-06-01 08:41:33 INFO     Main:11 - 2
+  2024-06-01 08:41:33 INFO     Main:11 - 3
+  2024-06-01 08:41:33 INFO     Main:11 - 4
+  2024-06-01 08:41:33 INFO     Main:11 - 5
+  2024-06-01 08:41:33 INFO     Main:11 - 6
+  2024-06-01 08:41:33 INFO     Main:11 - 7
+  2024-06-01 08:41:33 INFO     Main:11 - 8
+  2024-06-01 08:41:33 INFO     Main:11 - 9
+  2024-06-01 08:41:45 INFO     Main:17 - Hello
+  2024-06-01 08:41:45 INFO     Main:25 - World
+  2024-06-01 08:47:08 INFO     Main:30 - World
+  2024-06-01 08:47:08 INFO     Main:30 - World
+  2024-06-01 08:47:08 INFO     Main:30 - World
+  2024-06-01 08:47:08 INFO     Main:30 - World
+  2024-06-01 08:47:08 INFO     Main:30 - World
+  2024-06-01 08:47:08 INFO     Main:19 - Hello
+  2024-06-01 08:47:08 INFO     Main:19 - Hello
+  2024-06-01 08:47:08 INFO     Main:19 - Hello
+  2024-06-01 08:47:08 INFO     Main:19 - Hello
+  2024-06-01 08:47:08 INFO     Main:19 - Hello
+  2024-06-01 08:48:05 INFO     Main:20 - Hello
+  2024-06-01 08:48:05 INFO     Main:20 - Hello
+  2024-06-01 08:48:05 INFO     Main:20 - Hello
+  2024-06-01 08:48:05 INFO     Main:31 - World
+  2024-06-01 08:48:05 INFO     Main:31 - World
+  2024-06-01 08:48:05 INFO     Main:31 - World
+  2024-06-01 08:48:05 INFO     Main:31 - World
+  2024-06-01 08:48:05 INFO     Main:31 - World
+  2024-06-01 08:48:05 INFO     Main:20 - Hello
+  2024-06-01 08:48:05 INFO     Main:20 - Hello
+  2024-06-01 08:48:12 INFO     Main:20 - Hello
+  2024-06-01 08:48:12 INFO     Main:20 - Hello
+  2024-06-01 08:48:12 INFO     Main:20 - Hello
+  2024-06-01 08:48:12 INFO     Main:31 - World
+  2024-06-01 08:48:12 INFO     Main:31 - World
+  2024-06-01 08:48:12 INFO     Main:31 - World
+  2024-06-01 08:48:12 INFO     Main:31 - World
+  2024-06-01 08:48:12 INFO     Main:31 - World
+  2024-06-01 08:48:12 INFO     Main:20 - Hello
+  2024-06-01 08:48:12 INFO     Main:20 - Hello
+  2024-06-01 09:04:40 INFO     Main:11 - 0
+  2024-06-01 09:04:40 INFO     Main:11 - 1
+  2024-06-01 09:04:40 INFO     Main:11 - 2
+  2024-06-01 09:04:40 INFO     Main:11 - 3
+  2024-06-01 09:04:40 INFO     Main:11 - 4
+  2024-06-01 09:04:40 INFO     Main:11 - 5
+  2024-06-01 09:04:40 INFO     Main:11 - 6
+  2024-06-01 09:04:40 INFO     Main:11 - 7
+  2024-06-01 09:04:40 INFO     Main:11 - 8
+  2024-06-01 09:04:40 INFO     Main:11 - 9
+  2024-06-01 09:04:47 INFO     Main:20 - Hello
+  2024-06-01 09:04:47 INFO     Main:38 - World
+  2024-06-01 09:04:47 INFO     Main:38 - World
+  2024-06-01 09:04:47 INFO     Main:38 - World
+  2024-06-01 09:04:47 INFO     Main:38 - World
+  2024-06-01 09:04:47 INFO     Main:38 - World
+  2024-06-01 09:04:47 INFO     Main:20 - Hello
+  2024-06-01 09:04:47 INFO     Main:20 - Hello
+  2024-06-01 09:04:47 INFO     Main:20 - Hello
+  2024-06-01 09:04:47 INFO     Main:20 - Hello
+  2024-06-01 10:53:36 INFO     Main:20 - Hello
+  2024-06-01 10:53:36 INFO     Main:37 - World
+  2024-06-01 10:53:36 INFO     Main:37 - World
+  2024-06-01 10:53:36 INFO     Main:37 - World
+  2024-06-01 10:53:36 INFO     Main:37 - World
+  2024-06-01 10:53:36 INFO     Main:37 - World
+  2024-06-01 10:53:36 INFO     Main:20 - Hello
+  2024-06-01 10:53:36 INFO     Main:20 - Hello
+  2024-06-01 10:53:36 INFO     Main:20 - Hello
+  2024-06-01 10:53:36 INFO     Main:20 - Hello
+  
