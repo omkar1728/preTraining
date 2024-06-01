@@ -177,4 +177,49 @@
   2024-06-01 10:53:36 INFO     Main:20 - Hello
   2024-06-01 10:53:36 INFO     Main:20 - Hello
   2024-06-01 10:53:36 INFO     Main:20 - Hello
+  2024-06-01 11:46:18 INFO     Volatile:31 - Object has the hashcode of 1397198106
+  2024-06-01 11:46:18 INFO     Volatile:31 - Object has the hashcode of 1397198106
+  2024-06-01 11:46:18 INFO     Volatile:31 - Object has the hashcode of 1397198106
+  2024-06-01 11:46:40 INFO     Volatile:31 - Object has the hashcode of 538665730
+  2024-06-01 11:46:40 INFO     Volatile:31 - Object has the hashcode of 538665730
+  2024-06-01 11:46:40 INFO     Volatile:31 - Object has the hashcode of 538665730
+  2024-06-01 11:46:40 INFO     Volatile:31 - Object has the hashcode of 538665730
+  2024-06-01 11:46:40 INFO     Volatile:31 - Object has the hashcode of 538665730
+  2024-06-01 11:46:40 INFO     Volatile:31 - Object has the hashcode of 538665730
+  2024-06-01 11:46:40 INFO     Volatile:31 - Object has the hashcode of 538665730
+  2024-06-01 11:46:40 INFO     Volatile:31 - Object has the hashcode of 538665730
+  2024-06-01 11:46:40 INFO     Volatile:31 - Object has the hashcode of 538665730
+  2024-06-01 11:46:40 INFO     Volatile:31 - Object has the hashcode of 538665730
+  2024-06-01 11:47:30 INFO     Volatile:36 - Object has the hashcode of 570299604
+  2024-06-01 11:47:30 INFO     Volatile:36 - Object has the hashcode of 570299604
+  2024-06-01 11:47:30 INFO     Volatile:36 - Object has the hashcode of 570299604
+  2024-06-01 11:47:30 INFO     Volatile:36 - Object has the hashcode of 570299604
+  2024-06-01 11:47:30 INFO     Volatile:36 - Object has the hashcode of 570299604
+  2024-06-01 11:47:30 INFO     Volatile:36 - Object has the hashcode of 570299604
+  2024-06-01 11:47:30 INFO     Volatile:36 - Object has the hashcode of 570299604
+  2024-06-01 11:47:30 INFO     Volatile:36 - Object has the hashcode of 570299604
+  2024-06-01 11:47:30 INFO     Volatile:36 - Object has the hashcode of 570299604
+  2024-06-01 11:47:30 INFO     Volatile:36 - Object has the hashcode of 570299604
+  2024-06-01 11:47:44 INFO     Volatile:36 - Object has the hashcode of 2026731353
+  2024-06-01 11:47:44 INFO     Volatile:36 - Object has the hashcode of 2026731353
+  2024-06-01 11:47:44 INFO     Volatile:36 - Object has the hashcode of 2026731353
+  2024-06-01 11:47:44 INFO     Volatile:36 - Object has the hashcode of 2026731353
+  2024-06-01 11:47:44 INFO     Volatile:36 - Object has the hashcode of 2026731353
+  2024-06-01 11:47:44 INFO     Volatile:36 - Object has the hashcode of 2026731353
+  2024-06-01 11:47:44 INFO     Volatile:36 - Object has the hashcode of 2026731353
+  2024-06-01 11:47:44 INFO     Volatile:36 - Object has the hashcode of 2026731353
+  2024-06-01 11:47:44 INFO     Volatile:36 - Object has the hashcode of 2026731353
+  2024-06-01 11:47:44 INFO     Volatile:36 - Object has the hashcode of 2026731353
+  2024-06-01 19:34:30 INFO     Synchronization:32 - With synchronization :2000
+  2024-06-01 19:34:30 INFO     Synchronization:33 - Without synchronization :2000
+  2024-06-01 19:34:38 INFO     Synchronization:32 - With synchronization :2000
+  2024-06-01 19:34:38 INFO     Synchronization:33 - Without synchronization :1996
+  2024-06-01 19:34:41 INFO     Synchronization:32 - With synchronization :2000
+  2024-06-01 19:34:41 INFO     Synchronization:33 - Without synchronization :1991
+  2024-06-01 19:34:43 INFO     Synchronization:32 - With synchronization :2000
+  2024-06-01 19:34:43 INFO     Synchronization:33 - Without synchronization :1994
+  2024-06-01 19:34:46 INFO     Synchronization:32 - With synchronization :2000
+  2024-06-01 19:34:46 INFO     Synchronization:33 - Without synchronization :1989
+  2024-06-01 19:42:53 INFO     Synchronization:39 - With synchronization :2000
+  2024-06-01 19:42:53 INFO     Synchronization:40 - Without synchronization :1993
   
