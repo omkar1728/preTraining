@@ -222,4 +222,13 @@
   2024-06-01 19:34:46 INFO     Synchronization:33 - Without synchronization :1989
   2024-06-01 19:42:53 INFO     Synchronization:39 - With synchronization :2000
   2024-06-01 19:42:53 INFO     Synchronization:40 - Without synchronization :1993
+  2024-06-02 11:26:57 INFO     Demo:20 - 1John Doe101
+  2024-06-02 11:26:57 INFO     Demo:20 - 4Bob Brown101
+  2024-06-02 11:26:57 INFO     Demo:20 - 9George Clark101
+  2024-06-02 11:28:26 INFO     Demo:20 - Emp_id = 1Emp_name = John DoeDept_id = 101
+  2024-06-02 11:28:26 INFO     Demo:20 - Emp_id = 4Emp_name = Bob BrownDept_id = 101
+  2024-06-02 11:28:26 INFO     Demo:20 - Emp_id = 9Emp_name = George ClarkDept_id = 101
+  2024-06-02 11:28:42 INFO     Demo:20 - Emp_id = 1 Emp_name = John Doe Dept_id = 101
+  2024-06-02 11:28:42 INFO     Demo:20 - Emp_id = 4 Emp_name = Bob Brown Dept_id = 101
+  2024-06-02 11:28:42 INFO     Demo:20 - Emp_id = 9 Emp_name = George Clark Dept_id = 101
   
