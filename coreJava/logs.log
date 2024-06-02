@@ -231,4 +231,14 @@
   2024-06-02 11:28:42 INFO     Demo:20 - Emp_id = 1 Emp_name = John Doe Dept_id = 101
   2024-06-02 11:28:42 INFO     Demo:20 - Emp_id = 4 Emp_name = Bob Brown Dept_id = 101
   2024-06-02 11:28:42 INFO     Demo:20 - Emp_id = 9 Emp_name = George Clark Dept_id = 101
+  2024-06-02 12:19:09 INFO     TextFileWriter:31 - This is something written in file 
+  2024-06-02 12:19:09 INFO     TextFileWriter:31 - This is something written in file 
+  2024-06-02 12:19:09 INFO     TextFileWriter:31 - This is something written in file 
+  2024-06-02 12:19:09 INFO     TextFileWriter:31 - This is something written in file 
+  2024-06-02 12:19:09 INFO     TextFileWriter:31 - This is something written in file 
+  2024-06-02 12:19:09 INFO     TextFileWriter:31 - This is something written in file 
+  2024-06-02 12:19:09 INFO     TextFileWriter:31 - This is something written in file 
+  2024-06-02 12:19:09 INFO     TextFileWriter:31 - This is something written in file 
+  2024-06-02 12:19:09 INFO     TextFileWriter:31 - This is something written in file 
+  2024-06-02 12:19:09 INFO     TextFileWriter:31 - This is something written in file 
   
