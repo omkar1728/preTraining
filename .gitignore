@@ -2,4 +2,5 @@ coreJava/.gitignore
 coreJava/.idea/
 LoginWebApp/authenticationfeature/.vscode/
 LoginWebApp/authenticationfeature/target
+DBMS/*.sql
 
