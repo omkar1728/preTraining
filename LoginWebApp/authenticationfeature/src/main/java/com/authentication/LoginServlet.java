@@ -15,19 +15,19 @@ public class LoginServlet extends HttpServlet {
     protected void doPost(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException {
         String userName = req.getParameter("username");
         String password = req.getParameter("password");
-        String message = null;
+        String loginMessage = null;
         HttpSession session = req.getSession();
         User user = null;
         try {
             user = ORM.getUser(userName);
         } catch (Exception e) {
-            message = "Something went wrong";
-            session.setAttribute("message", message);
+            loginMessage = "Something went wrong";
+            session.setAttribute("loginMessage", loginMessage);
             // res.sendRedirect("login.jsp");
         }
         if (user == null) {
-            message = "Something went wrong";
-            session.setAttribute("message", message);
+            loginMessage = "Something went wrong";
+            session.setAttribute("loginMessage", loginMessage);
             res.sendRedirect("login.jsp");
 
         } else {
@@ -35,9 +35,8 @@ public class LoginServlet extends HttpServlet {
                 session.setAttribute("username", userName);
                 res.sendRedirect("welcome.jsp");
             } else {
-                System.out.println("username and password is wrong");
-                message = "Credentials wrong. Kindly re-check username and password";
-                session.setAttribute("message", message);
+                loginMessage = "Credentials wrong. Kindly re-check username and password";
+                session.setAttribute("loginMessage", loginMessage);
                 res.sendRedirect("login.jsp");
             }
 

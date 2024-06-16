@@ -16,6 +16,7 @@ public class RegisterServlet extends HttpServlet {
         String userName = req.getParameter("username");
         String password = req.getParameter("password");
         String message = null;
+        System.out.println(userName);
         try {
             message = ORM.createUser(userName, password);
             session.setAttribute("message", message);
